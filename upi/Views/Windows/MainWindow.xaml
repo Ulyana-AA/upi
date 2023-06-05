@@ -11,7 +11,7 @@
         <vm:MainWIndowViewModel/>
     </Window.DataContext>
     <Grid>
-        <TextBox Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}" />
+        
 
     </Grid>
 </Window>
